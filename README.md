@@ -1,6 +1,6 @@
 ## Power BI LEGO Explorer
-
-### Project Overview/ Objective:
+ 
+ ### Project Overview/ Objective:
 For an enthusiastic LEGO collector, there are many different sets to choose from. Selecting the right set based on factors such as theme, age range, number of pieces, and price can therefore be challenging.
 
 #### Objective:
@@ -47,6 +47,9 @@ The LEGO Set Explorer provides an interactive interface for users to filter and 
 <b> • Set-Level Details</b> – Select a set to view its year, piece count, age range, and LEGO image.<br> 
 <b> • Price Range Categorization</b> – Easily compare sets across predefined price bands.<br>
 <b> • Interactive Navigation</b> – Use Clear Slicers and Explore Sets controls for a smoother exploration experience.<br>
+
+#### Dashboard link:
+https://app.powerbi.com/view?r=eyJrIjoiYjM1OTY2M2UtMzI4ZS00YjRkLWFkMzItOWFkYWY0N2JmZjcwIiwidCI6IjE4NWI4MjQ5LTNmYTItNGI1Zi05MzhhLTllNTRiMWEwOWEwNSJ9
 
 #### How to use:
 1. Download .pbix file or click on the link provided to view the report.
