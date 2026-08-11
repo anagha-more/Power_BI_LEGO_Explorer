@@ -48,8 +48,11 @@ The LEGO Set Explorer provides an interactive interface for users to filter and 
 <b> • Price Range Categorization</b> – Easily compare sets across predefined price bands.<br>
 <b> • Interactive Navigation</b> – Use Clear Slicers and Explore Sets controls for a smoother exploration experience.<br>
 
-#### Dashboard link:
-https://app.powerbi.com/view?r=eyJrIjoiYjM1OTY2M2UtMzI4ZS00YjRkLWFkMzItOWFkYWY0N2JmZjcwIiwidCI6IjE4NWI4MjQ5LTNmYTItNGI1Zi05MzhhLTllNTRiMWEwOWEwNSJ9
+#### Dashboard preview:
+##### Screenshots:
+![Default mainpage](https://github.com/anagha-more/Power_BI_LEGO_Explorer/blob/main/Deafult%20Main%20page.png)
+![image tooltip](https://github.com/anagha-more/Power_BI_LEGO_Explorer/blob/main/Image%20Tooltip%20on%20table.png)
+![filter set](https://github.com/anagha-more/Power_BI_LEGO_Explorer/blob/main/Filter%20Set%20using%20theme.png)
 
 #### How to use:
 1. Download .pbix file or click on the link provided to view the report.
@@ -58,6 +61,8 @@ https://app.powerbi.com/view?r=eyJrIjoiYjM1OTY2M2UtMzI4ZS00YjRkLWFkMzItOWFkYWY0N
 4. Browse the filtered set list.
 5. Select a set from the table to view detailed information.
 6. Use "Clear Slicers" to reset the selections.
+
+[Lego Set Explorer - view Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjM1OTY2M2UtMzI4ZS00YjRkLWFkMzItOWFkYWY0N2JmZjcwIiwidCI6IjE4NWI4MjQ5LTNmYTItNGI1Zi05MzhhLTllNTRiMWEwOWEwNSJ9)
 
 ### Learnings:
 This project focused primarily on building an interactive and user-friendly Power BI explorer. It provided hands-on experience in designing intuitive report navigation, implementing interactive filters and slicers, using a numeric range parameter for dynamic filtering, and presenting set-level information through an interactive dashboard.
