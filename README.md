@@ -59,8 +59,9 @@ The LEGO Set Explorer provides an interactive interface for users to filter and 
 2. Select a Theme Group, Theme, or Age Range. 
 3. Adjust the Price Range slider. 
 4. Browse the filtered set list.
-5. Select a set from the table to view detailed information.
-6. Use "Clear Slicers" to reset the selections.
+5. Hover on the set name in the table to get the view of set.
+6. Select a set from the table to view detailed information(release year, number of pieces, age group suitable for etc.)
+7. Use "Clear Slicers" to reset the selections.
 
 [Lego Set Explorer - view Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjM1OTY2M2UtMzI4ZS00YjRkLWFkMzItOWFkYWY0N2JmZjcwIiwidCI6IjE4NWI4MjQ5LTNmYTItNGI1Zi05MzhhLTllNTRiMWEwOWEwNSJ9)
 
